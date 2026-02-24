@@ -1,3 +1,9 @@
+This project is forked from original repositary and modified for learning purpose.
+
+
+
+
+
 📦 VYAPIX — Frontend
 
 Vyapix is a lightweight, fast, and responsive frontend interface built using React (Vite), Tailwind CSS, and Axios for API communication.
