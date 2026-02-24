@@ -181,7 +181,4 @@ https://www.geeksforgeeks.org/courses/full-stack-web-dev-skill-up
 
 ---
 
-✉️ Contact
 
-Abdul Rahman
-For improvements, collaborations, or UI ideas — always happy to connect!
