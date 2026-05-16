@@ -230,7 +230,7 @@ Planned enhancements include:
 
 ---
 
-# 🤝 Contributing
+# 🤝 Contributing-
 
 Contributions are welcome.
 
@@ -243,7 +243,7 @@ If you'd like to improve the UI, optimize performance, or add features:
 
 ---
 
-# 📘 Learning Resources
+# 📘 Learning Resources-
 
 Recommended resource for improving full-stack development skills:
 
@@ -251,7 +251,7 @@ https://www.geeksforgeeks.org/courses/full-stack-web-dev-skill-up
 
 ---
 
-# 📄 License
+# 📄 License-
 
 This project is intended for educational and learning purposes only.  
 All original credits belong to the respective repository owners.
